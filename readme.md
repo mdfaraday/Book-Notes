@@ -6,6 +6,10 @@
 
 This app is designed to facilitate efficiently keeping track of notes taken while reading books. It allows the user to have a single database where all notes can easily be searched and information can be found very quickly and therefore is always readily available for reference.
 
+### Images
+
+<img src="assets/Design%20Diagram.jpg">
+
 ### Dependencies Added
 
 - redux
