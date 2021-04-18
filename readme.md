@@ -8,6 +8,10 @@ This app is designed to facilitate efficiently keeping track of notes taken whil
 
 ### Images
 
+![BookNotesScreens](https://user-images.githubusercontent.com/57548521/115157813-3c5a0c80-a059-11eb-9bf9-7bb176958039.png)
+
+### Design Diagram
+
 <img src="assets/Design%20Diagram.jpg">
 
 ### Dependencies Added
